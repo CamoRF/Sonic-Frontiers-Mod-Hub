@@ -5,11 +5,11 @@
 # Tools
 - [HedgeArcPack](https://github.com/CamoRF/Sonic-Frontiers-Mod-Hub/raw/main/tools/HedgeArcPack_WIP_Frontiers.7z) : unpack/pack ".pac" file format
 - [SkythTools](https://github.com/blueskythlikesclouds/SkythTools) : A collection of tools for modern Sonic the Hedgehog games 
+- [HedgeLib](https://github.com/Radfordhound/HedgeLib) : A C# library and collection of tools that aims to make modding games in the Sonic the Hedgehog franchise easier. 
 - [HedgeNeedle](https://github.com/CamoRF/Sonic-Frontiers-Mod-Hub/raw/main/tools/HedgeNeedle.7z) : Placeholder
 - [Hedgehog Engine 2 Mesh Blender Importer](https://github.com/Turk645/Hedgehog-Engine-2-Mesh-Blender-Importer) : Plugin for importing the games models in Blender
 - [Eternity Audio Tool](https://animegamemods.freeforums.net/thread/618/eternity-audio-tool-link-tutorial) : Used to ripping audio from the game
-- [HedgeLib](https://github.com/Radfordhound/HedgeLib) : A C# library and collection of tools that aims to make modding games in the Sonic the Hedgehog franchise easier. 
-- [ModelFixerPost2020](https://github.com/CamoRF/Sonic-Frontiers-Mod-Hub/raw/main/tools/ModelFixerPost2020.zip) : Can possibly fix broken .model files
+- [ModelFixerPost2020](https://github.com/CamoRF/Sonic-Frontiers-Mod-Hub/raw/main/tools/ModelFixerPost2020.zip) : Can possibly fix broken models
 
 # Guides
 
