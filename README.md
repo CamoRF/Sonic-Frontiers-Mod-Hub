@@ -70,7 +70,7 @@ Tools needed
   - \miniboss\ : mini boss textures, materials, models and levels and animations
   - \misc\ : miscellaneous textures and levels; needs to be looked into more
   - \movie\ : non real-time custscenes
-  - \navmesh\ : NPC navigation path files
+  - \navmesh\ : NPC navigation path meshes
   - \scalablefont\ : fonts
   - \script\ : various scripts and functions, .lua format is common
   - \sound\ : sounds and music
