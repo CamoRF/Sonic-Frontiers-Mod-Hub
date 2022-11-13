@@ -47,17 +47,17 @@
 
 # Guides
 
-- Model Import Tutorial Video (credits to junior#0001)
+-  **Model Import Tutorial Video (credits to junior#0001)**
   [Sonic Frontiers Modding - Model Import Tutorial](https://youtu.be/B_-YJ2I1_M4)
 
-- Model Ripping (credits to stix#1997)
+-  **Model Ripping (credits to stix#1997)**
   - 1. First off, you're gonna want to extract the .pac files using [HedgeArcPack](https://cdn.discordapp.com/attachments/987489054377508924/1039653178494431272/HedgeArcPack_WIP_Frontiers.7z)
   - 2. Depending on what pac file you extract there may be no textures, inorder to fix this, use [SkythTools](https://github.com/blueskythlikesclouds/SkythTools) NeedleTextureStreamingPackage
   - 3. Some .model files may need to be extracted using [HedgeNeedle](https://cdn.discordapp.com/attachments/464963211410669579/1039655306378100816/HedgeNeedle.7z)
   - 4. Import the model using [Hedgehog Engine 2 Mesh Blender Importer] (https://github.com/Turk645/Hedgehog-Engine-2-Mesh-Blender-Importer). Extract the zip and install the py files instead of installing the zip.
   - 5. Make sure after using Hedgeneedle, you copy the skl.pxd into the folder of the extracted models and rename the model to the same name as the skeleton except for extension, leave the skl.pxd files name the same
 
-- Maps Required For Textures
+- **Maps Required For Textures**
   - Abd = Albedo/Base Color Map
   - Nrm = Normal Map
   - Fal = Fresnel Color Map
@@ -68,7 +68,7 @@
   - PRM_B = Metalness 
   - PRM_A = Ambient Occlusion
 
-- Audio Ripping (credits to ✨Kat✨#1234)
+- **Audio Ripping (credits to ✨Kat✨#1234)**
   - Tools needed
     - Sonic Audio Tools on Skyth's [Github](https://github.com/blueskythlikesclouds/SkythTools)
     - [Eternity Audio Tool](https://animegamemods.freeforums.net/thread/618/eternity-audio-tool-link-tutorial)
