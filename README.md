@@ -11,19 +11,6 @@
 - [Eternity Audio Tool](https://animegamemods.freeforums.net/thread/618/eternity-audio-tool-link-tutorial) : Used for ripping audio from the game
 - [ModelFixerPost2020](https://github.com/CamoRF/Sonic-Frontiers-Mod-Hub/raw/main/tools/ModelFixerPost2020.zip) : Can possibly fix broken models
 
-
-# Maps Required For Textures
-
-- Abd = Albedo/Base Color Map
-- Nrm = Normal Map
-- Fal = Fresnel Color Map
-- CDR = Subsurface Scattering Color basically
-- Ems = Emission 
-- PRM_R = Reflectivity (Specular F0)
-- PRM_G = Smoothness 
-- PRM_B = Metalness 
-- PRM_A = Ambient Occlusion
-
 # File Structure
 
 - SonicFrontiers\image\x64\raw\
@@ -49,7 +36,6 @@
   - \texture_streaming\ : unknown, most likely engine related files for streaming in textures
   - \ui\ : user interface textures
   
-
 # File Formats
 
 - Placeholder
@@ -80,6 +66,18 @@ FAQ
 4. Import the model using [Hedgehog Engine 2 Mesh Blender Importer] (https://github.com/Turk645/Hedgehog-Engine-2-Mesh-Blender-Importer). Extract the zip and install the py files instead of installing the zip.
 
 5. Make sure after using Hedgeneedle, you copy the skl.pxd into the folder of the extracted models and rename the model to the same name as the skeleton except for extension, leave the skl.pxd files name the same
+
+# Maps Required For Textures
+
+- Abd = Albedo/Base Color Map
+- Nrm = Normal Map
+- Fal = Fresnel Color Map
+- CDR = Subsurface Scattering Color basically
+- Ems = Emission 
+- PRM_R = Reflectivity (Specular F0)
+- PRM_G = Smoothness 
+- PRM_B = Metalness 
+- PRM_A = Ambient Occlusion
 
 # Audio Ripping (credits to ✨Kat✨#1234)
 
