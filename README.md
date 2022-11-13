@@ -11,7 +11,7 @@
 - [Hedgehog Engine 2 Mesh Blender Importer](https://github.com/Turk645/Hedgehog-Engine-2-Mesh-Blender-Importer) : Plugin for importing the games models in Blender
 - [Eternity Audio Tool](https://animegamemods.freeforums.net/thread/618/eternity-audio-tool-link-tutorial) : Used for ripping audio from the game
 - [ModelFixerPost2020](https://github.com/CamoRF/Sonic-Frontiers-Mod-Hub/raw/main/tools/ModelFixerPost2020.zip) : Can possibly fix broken models
-- [Puyo Text Editor](https://github.com/nickworonekin/puyo-text-editor) : Used to convert some of the cnvrs-text files
+- [Puyo Text Editor] (https://github.com/nickworonekin/puyo-text-editor) : Used to convert some of the cnvrs-text files
 
 # Mods
 
@@ -81,6 +81,18 @@
     - To playback these tracks you will need Foobar2000 with VGMStream, install Foobar2000 and click on VGMStream and apply it. Then go to the main menu of Foobar2000, go to file and click open, press CTRL+A on the folder with all of the files you want to listen to and play them all back. If you wish to extract the audio, right click it, go to convert and quick convert, I recommend converting to either .wav or .ogg.
 
     - To edit the tracks, make sure you copy both of the extracted folder .acb and the original .acb to a different folder. Listen to the audio track you wish to use and use Foobar2000 to listen to the audio tracks in that folder, once you have the name of a track you wish to replace. Make a sound file (.wav/.ogg) you wish to replace that track with, open Eternity's Audio Tool 1.0b, click File and Convert to .hca, select the audio file you want to change into a .hca and rename it to the audio file you want to change inside of the extracted .acb folder. Then replace the track and drag and drop the extracted folder .acb onto AcbEditor.exe. You've now changed audio in Sonic Frontiers, you can do the rest. 
+
+- **In-Game Text Editing**
+  - Tools Needed
+    - [Puyo Text Editor](https://github.com/nickworonekin/puyo-text-editor)
+  
+  - Unpack the .pac file including the text you want using HedgeArcPack
+  - Drag and drop the cnvrs-text file you want to edit onto PuyoTextEditor.exe. This will create an XML file with the same filename in the folder where you have the cnvrs-text file.
+  - Edit the text that you want.
+  - Open a Command Prompt, and navigate to the folder where you have PuyoTextEditor.exe. (The command for this is 'cd <Directory>')
+  - Run the following command: "PuyoTextEditor.exe -f cnvrs-text <XML_FILE>" where <XML-FILE> is the file you edited in step 3.
+  - This will create a new cnvrs-text file in the same directory as the XML file.
+  - Repack the files by dragging the directory including all the files for that pac onto HedgeArcPack.exe
 
 # Project Resaerch
 
