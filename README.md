@@ -1,4 +1,5 @@
-# Sonic Frontiers Mod Hub
+![Sonic Frontiers Mod Hub Logo](Logo-temp.png?raw=true)
+
 - This repo will be used for hosting mods, providing convenient links to modding tools and guides on modding Sonic Frontiers. 
 - Join the [Hedgehog Engine Modding Discord](https://dc.railgun.works/hems).
 
