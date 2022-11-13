@@ -7,6 +7,7 @@
 - [HedgeNeedle](https://cdn.discordapp.com/attachments/464963211410669579/1039655306378100816/HedgeNeedle.7z) :
 - [Hedgehog Engine 2 Mesh Blender Importer](https://github.com/Turk645/Hedgehog-Engine-2-Mesh-Blender-Importer) :
 - [Eternity Audio Tool](https://animegamemods.freeforums.net/thread/618/eternity-audio-tool-link-tutorial) :
+- [HedgeLib](https://github.com/Radfordhound/HedgeLib) :
 
 # Guides
 
