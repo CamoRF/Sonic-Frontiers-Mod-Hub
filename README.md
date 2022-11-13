@@ -15,6 +15,14 @@
 
 [Sonic Frontiers Modding - Model Import Tutorial](https://youtu.be/B_-YJ2I1_M4)
 
+FAQ
+- Q: How do I import the .model into blender? 
+  - A: Google "How to install a blender add-on and follow the tutorial, here's the [plugin](https://cdn.discordapp.com/attachments/987489054377508924/1041430235809316934/Hedgehog-Engine-2-Mesh-Blender-Importer-main.zip) if you missed it. 
+- Q: ALT+R isn't working, why?
+  - A: Turn off hotkeys/keybindings for Radeon or NVIDIA overlays
+- Q: My model is invisible, why?
+  - A: Make sure your materials all have proper names. Don't leave them as the default. 
+
 
 # Model Ripping (credits to stix#1997)
 
