@@ -42,6 +42,9 @@
   - \text\ : subtitles, skills and other text popups
   - \texture_streaming\ : unknown, most likely engine related files for streaming in textures
   - \ui\ : user interface textures
+
+- Saves
+  - <YOUR_DRIVE>\Users\%UserName%\AppData\Roaming\SEGA\SonicFrontiers\steam
   
 # File Formats
 
