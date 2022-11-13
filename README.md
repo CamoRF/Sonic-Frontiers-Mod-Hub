@@ -62,7 +62,7 @@ Tools needed
   - \character\ : character textures models, materials, animations
   - \decotext\ : unknown
   - \dlc\ : additional content
-  - \enemy\ : files for boss textures, materials, models and levels and animations
+  - \enemy\ : boss textures, materials, models and levels and animations
   - \event\ : real-time cutscenes/events? 
   - \gedit\ : setdata/object layout
   - \general\ : unknown
