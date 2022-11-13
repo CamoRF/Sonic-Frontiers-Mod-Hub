@@ -59,7 +59,7 @@ Tools needed
 - SonicFrontiers\image\x64\raw\
   - \bmpfont\ : empty
   - \boss\ : boss textures, materials, models, levels and animations
-  - \character\ : character textures models, materials, animations
+  - \character\ : character textures models, materials and animations
   - \decotext\ : unknown
   - \dlc\ : additional content
   - \enemy\ : boss textures, materials, models and levels and animations
@@ -67,7 +67,7 @@ Tools needed
   - \gedit\ : setdata/object layout
   - \general\ : unknown
   - \hedgehog\ : engine related level, debug, sound and fonts; mostly empty
-  - \miniboss\ : mini boss textures, materials, models and levels and animations
+  - \miniboss\ : mini boss textures, materials, models, levels and animations
   - \misc\ : miscellaneous textures and levels; needs to be looked into more
   - \movie\ : non real-time custscenes
   - \navmesh\ : NPC navigation path meshes
