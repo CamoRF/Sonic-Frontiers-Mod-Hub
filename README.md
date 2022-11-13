@@ -27,7 +27,7 @@
 Tools needed
 - Sonic Audio Tools on Skyth's [Github](https://github.com/blueskythlikesclouds/SkythTools)
 - [Eternity Audio Tool](https://animegamemods.freeforums.net/thread/618/eternity-audio-tool-link-tutorial)
-- [Foobar](https://www.foobar2000.org/download) with [VGMToolBox Plugin](https://sourceforge.net/projects/vgmtoolbox/)
+- [Foobar](https://www.foobar2000.org/download) with [VGMStream]([https://sourceforge.net/projects/vgmtoolbox/](https://discord.com/channels/945689739447664640/987489054377508924/1041368205077254144)
 
 1. Go to the .acb which you wish to extract (In this case for BGM you'll want to go into sound folder and find bgm.acb), drag and drop the .acb file onto AcbEditor.exe in Sonic Audio Tools and after a while you'll get a folder in the sound folder named after the .acb you just extracted, open it and you will see all of the audio files in .hca form.
 
