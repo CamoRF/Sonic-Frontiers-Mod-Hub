@@ -59,8 +59,8 @@ Tools needed
 - SonicFrontiers\image\x64\raw\
   - \bmpfont\ : empty
   - \boss\ : boss textures, materials, models and levels and animations
-  - \character\: character textures models, materials, animations
-  - \decotext\: unknown
+  - \character\ : character textures models, materials, animations
+  - \decotext\ : unknown
   - \dlc\ : additional content
   - \enemy\ : files for boss textures, materials, models and levels and animations
   - \event\ : real-time cutscenes/events? 
@@ -76,8 +76,8 @@ Tools needed
   - \sound\ : sounds and music
   - \stage\ : world/level textures, materials, models and LODs; most of the games textures can be found here
   - \text\ : subtitles, skills and other text popups
-  - \texture_streaming\: unknown, most likely engine related files for streaming in textures
-  - \ui\: user interface textures
+  - \texture_streaming\ : unknown, most likely engine related files for streaming in textures
+  - \ui\ : user interface textures
 
 # Mods
 
