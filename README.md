@@ -79,6 +79,8 @@ Tools needed
   - \texture_streaming\ : unknown, most likely engine related files for streaming in textures
   - \ui\ : user interface textures
 
+# File Formats
+
 # Mods
 
 - [Releases](https://github.com/CamoRF/Sonic-Frontiers-Mod-Hub/releases)
