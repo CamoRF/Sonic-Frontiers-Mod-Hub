@@ -3,13 +3,13 @@
 - Join the [Hedgehog Engine Modding Discord](https://dc.railgun.works/hems).
 
 # Tools
-- [HedgeArcPack](https://github.com/CamoRF/Sonic-Frontiers-Mod-Hub/blob/main/tools/HedgeArcPack_WIP_Frontiers.7z) : unpack/pack ".pac" file format
-- [SkythTools](https://github.com/CamoRF/Sonic-Frontiers-Mod-Hub/blob/main/tools/HedgeNeedle.7z) :
-- [HedgeNeedle](https://cdn.discordapp.com/attachments/464963211410669579/1039655306378100816/HedgeNeedle.7z) :
+- [HedgeArcPack](https://github.com/CamoRF/Sonic-Frontiers-Mod-Hub/raw/main/tools/HedgeArcPack_WIP_Frontiers.7z) : unpack/pack ".pac" file format
+- [SkythTools](https://github.com/blueskythlikesclouds/SkythTools) :
+- [HedgeNeedle](https://github.com/CamoRF/Sonic-Frontiers-Mod-Hub/blob/main/tools/HedgeNeedle.7z) :
 - [Hedgehog Engine 2 Mesh Blender Importer](https://github.com/Turk645/Hedgehog-Engine-2-Mesh-Blender-Importer) :
 - [Eternity Audio Tool](https://animegamemods.freeforums.net/thread/618/eternity-audio-tool-link-tutorial) :
 - [HedgeLib](https://github.com/Radfordhound/HedgeLib) :
-- [ModelFixerPost2020](https://github.com/CamoRF/Sonic-Frontiers-Mod-Hub/blob/main/tools/ModelFixerPost2020.zip) :
+- [ModelFixerPost2020](https://github.com/CamoRF/Sonic-Frontiers-Mod-Hub/raw/main/tools/ModelFixerPost2020.zip) :
 
 # Guides
 
