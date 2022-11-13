@@ -42,7 +42,7 @@ Tools needed
 3. To edit the tracks, make sure you copy both of the extracted folder .acb and the original .acb to a different folder. Listen to the audio track you wish to use and use Foobar2000 to listen to the audio tracks in that folder, once you have the name of a track you wish to replace. Make a sound file (.wav/.ogg) you wish to replace that track with, open Eternity's Audio Tool 1.0b, click File and Convert to .hca, select the audio file you want to change into a .hca and rename it to the audio file you want to change inside of the extracted .acb folder. Then replace the track and drag and drop the extracted folder .acb onto AcbEditor.exe. You've now changed audio in Sonic Frontiers, you can do the rest
 
 
-# Placeholder
+# Maps Required For Textures
 
 - Abd = Albedo/Base Color Map
 - Nrm = Normal Map
@@ -54,6 +54,30 @@ Tools needed
 - PRM_B = Metalness 
 - PRM_A = Ambient Occlusion
 
+# File Structure
+
+-SonicFrontiers\image\x64\raw\
+  -\bmpfont\ : empty
+  -\boss\ : boss textures, materials, models and levels and animations
+  -\character\: character textures models, materials, animations
+  -\decotext\: unknown
+  -\dlc\ : additional content
+  -\enemy\ : files for boss textures, materials, models and levels and animations
+  -\event\ : real-time cutscenes/events? 
+  -\gedit\ : unknown
+  -\general\ : unknown
+  -\hedgehog\ : engine related level, debug, sound and fonts; mostly empty
+  -\miniboss\ : mini boss textures, materials, models and levels and animations
+  -\misc\ : 
+  -\movie\ : non real-time custscenes
+  -\navmesh\ : NPC navigation path files
+  -\scalablefont\ : fonts
+  -\script\ : various scripts and functions, .lua format is common
+  -\sound\ : sounds and music
+  -\stage\ : world/level textures, materials, models and LODs; most of the games textures can be found here
+  -\text\ : subtitles, skills and other text popups
+  -\texture_streaming\: unknown, most likely engine related files for streaming in textures
+  -\ui\: user interface textures
 
 # Mods
 
