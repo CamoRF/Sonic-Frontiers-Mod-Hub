@@ -80,11 +80,8 @@
     - [Eternity Audio Tool](https://animegamemods.freeforums.net/thread/618/eternity-audio-tool-link-tutorial)
     - [Foobar](https://www.foobar2000.org/download)
     - [VGMStream](https://discord.com/channels/945689739447664640/987489054377508924/1041368205077254144)
-
     - Go to the .acb which you wish to extract (In this case for BGM you'll want to go into sound folder and find bgm.acb), drag and drop the .acb file onto AcbEditor.exe in Sonic Audio Tools and after a while you'll get a folder in the sound folder named after the .acb you just extracted, open it and you will see all of the audio files in .hca form.
-
     - To playback these tracks you will need Foobar2000 with VGMStream, install Foobar2000 and click on VGMStream and apply it. Then go to the main menu of Foobar2000, go to file and click open, press CTRL+A on the folder with all of the files you want to listen to and play them all back. If you wish to extract the audio, right click it, go to convert and quick convert, I recommend converting to either .wav or .ogg.
-
     - To edit the tracks, make sure you copy both of the extracted folder .acb and the original .acb to a different folder. Listen to the audio track you wish to use and use Foobar2000 to listen to the audio tracks in that folder, once you have the name of a track you wish to replace. Make a sound file (.wav/.ogg) you wish to replace that track with, open Eternity's Audio Tool 1.0b, click File and Convert to .hca, select the audio file you want to change into a .hca and rename it to the audio file you want to change inside of the extracted .acb folder. Then replace the track and drag and drop the extracted folder .acb onto AcbEditor.exe. You've now changed audio in Sonic Frontiers, you can do the rest. 
 
 - **In-Game Text Editing**
