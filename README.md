@@ -45,7 +45,7 @@
   - \ui\ : user interface textures
 
 - Saves
-  - <YOUR_DRIVE>\Users\%UserName%\AppData\Roaming\SEGA\SonicFrontiers\steam
+  - YOUR_DRIVE\Users\%UserName%\AppData\Roaming\SEGA\SonicFrontiers\steam
   
 # File Formats
 
