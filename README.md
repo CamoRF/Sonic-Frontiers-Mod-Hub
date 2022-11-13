@@ -1,5 +1,6 @@
 # Sonic Frontiers Mod Hub
 - This repo will be used for hosting mods, providing convenient links to modding tools and guides on modding Sonic Frontiers. 
+- Join the [Hedgehog Engine Modding Discord](https://dc.railgun.works/hems)
 
 # Tools
 - [HedgeArcPack](https://cdn.discordapp.com/attachments/987489054377508924/1039653178494431272/HedgeArcPack_WIP_Frontiers.7z) : unpack/pack ".pac" file format
