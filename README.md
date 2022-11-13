@@ -64,7 +64,7 @@ Tools needed
   - \dlc\ : additional content
   - \enemy\ : files for boss textures, materials, models and levels and animations
   - \event\ : real-time cutscenes/events? 
-  - \gedit\ : unknown
+  - \gedit\ : setdata/object layout
   - \general\ : unknown
   - \hedgehog\ : engine related level, debug, sound and fonts; mostly empty
   - \miniboss\ : mini boss textures, materials, models and levels and animations
