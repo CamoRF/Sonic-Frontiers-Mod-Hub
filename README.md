@@ -68,7 +68,7 @@ Tools needed
   - \general\ : unknown
   - \hedgehog\ : engine related level, debug, sound and fonts; mostly empty
   - \miniboss\ : mini boss textures, materials, models and levels and animations
-  - \misc\ : 
+  - \misc\ : miscellaneous textures and levels; needs to be looked into more
   - \movie\ : non real-time custscenes
   - \navmesh\ : NPC navigation path files
   - \scalablefont\ : fonts
