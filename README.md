@@ -1,14 +1,14 @@
 # Sonic Frontiers Mod Hub
 - This repo will be used for both hosting mods, providing convientant links to modding tools and guides on modding Sonic Frontiers. 
 
-# Tools (placeholder)
+# Tools
 - [HedgeArcPack](https://cdn.discordapp.com/attachments/987489054377508924/1039653178494431272/HedgeArcPack_WIP_Frontiers.7z)
 - [SkythTools](https://github.com/blueskythlikesclouds/SkythTools)
 - [HedgeNeedle](https://cdn.discordapp.com/attachments/464963211410669579/1039655306378100816/HedgeNeedle.7z)
 - [Hedgehog Engine 2 Mesh Blender Importer](https://github.com/Turk645/Hedgehog-Engine-2-Mesh-Blender-Importer)
 - [Eternity Audio Tool](https://animegamemods.freeforums.net/thread/618/eternity-audio-tool-link-tutorial)
 
-# Guides (placeholder)
+# Guides
 
 # Model Ripping (credits to stix#1997)
 
@@ -50,7 +50,7 @@ Tools needed
 - PRM_A = Ambient Occlusion
 
 
-# Mods (placeholder)
+# Mods
 
 - [Releases](https://github.com/CamoRF/Sonic-Frontiers-Mod-Hub/releases)
 
