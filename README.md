@@ -81,6 +81,8 @@ Tools needed
 
 # File Formats
 
+- Placeholder
+
 # Mods
 
 - [Releases](https://github.com/CamoRF/Sonic-Frontiers-Mod-Hub/releases)
