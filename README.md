@@ -11,6 +11,49 @@
 - [Eternity Audio Tool](https://animegamemods.freeforums.net/thread/618/eternity-audio-tool-link-tutorial) : Used for ripping audio from the game
 - [ModelFixerPost2020](https://github.com/CamoRF/Sonic-Frontiers-Mod-Hub/raw/main/tools/ModelFixerPost2020.zip) : Can possibly fix broken models
 
+
+# Maps Required For Textures
+
+- Abd = Albedo/Base Color Map
+- Nrm = Normal Map
+- Fal = Fresnel Color Map
+- CDR = Subsurface Scattering Color basically
+- Ems = Emission 
+- PRM_R = Reflectivity (Specular F0)
+- PRM_G = Smoothness 
+- PRM_B = Metalness 
+- PRM_A = Ambient Occlusion
+
+# File Structure
+
+- SonicFrontiers\image\x64\raw\
+  - \bmpfont\ : empty
+  - \boss\ : boss textures, materials, models, levels and animations
+  - \character\ : character textures models, materials and animations
+  - \decotext\ : unknown
+  - \dlc\ : additional content
+  - \enemy\ : boss textures, materials, models and levels and animations
+  - \event\ : real-time cutscenes/events? 
+  - \gedit\ : setdata/object layout
+  - \general\ : unknown
+  - \hedgehog\ : engine related level, debug, sound and fonts; mostly empty
+  - \miniboss\ : mini boss textures, materials, models, levels and animations
+  - \misc\ : miscellaneous textures and levels; needs to be looked into more
+  - \movie\ : non real-time custscenes
+  - \navmesh\ : NPC navigation path meshes
+  - \scalablefont\ : fonts
+  - \script\ : various scripts and functions, .lua format is common
+  - \sound\ : sounds and music
+  - \stage\ : world/level textures, materials, models and LODs; most of the games textures can be found here
+  - \text\ : subtitles, skills and other text popups
+  - \texture_streaming\ : unknown, most likely engine related files for streaming in textures
+  - \ui\ : user interface textures
+  
+
+# File Formats
+
+- Placeholder
+
 # Guides
 
 # Model Import Tutorial Video (credits to junior#0001)
@@ -51,48 +94,6 @@ Tools needed
 2. To playback these tracks you will need Foobar2000 with VGMStream, install Foobar2000 and click on VGMStream and apply it. Then go to the main menu of Foobar2000, go to file and click open, press CTRL+A on the folder with all of the files you want to listen to and play them all back. If you wish to extract the audio, right click it, go to convert and quick convert, I recommend converting to either .wav or .ogg.
 
 3. To edit the tracks, make sure you copy both of the extracted folder .acb and the original .acb to a different folder. Listen to the audio track you wish to use and use Foobar2000 to listen to the audio tracks in that folder, once you have the name of a track you wish to replace. Make a sound file (.wav/.ogg) you wish to replace that track with, open Eternity's Audio Tool 1.0b, click File and Convert to .hca, select the audio file you want to change into a .hca and rename it to the audio file you want to change inside of the extracted .acb folder. Then replace the track and drag and drop the extracted folder .acb onto AcbEditor.exe. You've now changed audio in Sonic Frontiers, you can do the rest. 
-
-
-# Maps Required For Textures
-
-- Abd = Albedo/Base Color Map
-- Nrm = Normal Map
-- Fal = Fresnel Color Map
-- CDR = Subsurface Scattering Color basically
-- Ems = Emission 
-- PRM_R = Reflectivity (Specular F0)
-- PRM_G = Smoothness 
-- PRM_B = Metalness 
-- PRM_A = Ambient Occlusion
-
-# File Structure
-
-- SonicFrontiers\image\x64\raw\
-  - \bmpfont\ : empty
-  - \boss\ : boss textures, materials, models, levels and animations
-  - \character\ : character textures models, materials and animations
-  - \decotext\ : unknown
-  - \dlc\ : additional content
-  - \enemy\ : boss textures, materials, models and levels and animations
-  - \event\ : real-time cutscenes/events? 
-  - \gedit\ : setdata/object layout
-  - \general\ : unknown
-  - \hedgehog\ : engine related level, debug, sound and fonts; mostly empty
-  - \miniboss\ : mini boss textures, materials, models, levels and animations
-  - \misc\ : miscellaneous textures and levels; needs to be looked into more
-  - \movie\ : non real-time custscenes
-  - \navmesh\ : NPC navigation path meshes
-  - \scalablefont\ : fonts
-  - \script\ : various scripts and functions, .lua format is common
-  - \sound\ : sounds and music
-  - \stage\ : world/level textures, materials, models and LODs; most of the games textures can be found here
-  - \text\ : subtitles, skills and other text popups
-  - \texture_streaming\ : unknown, most likely engine related files for streaming in textures
-  - \ui\ : user interface textures
-
-# File Formats
-
-- Placeholder
 
 # Mods
 
