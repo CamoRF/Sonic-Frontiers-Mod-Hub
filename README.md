@@ -8,6 +8,7 @@
 - [Hedgehog Engine 2 Mesh Blender Importer](https://github.com/Turk645/Hedgehog-Engine-2-Mesh-Blender-Importer) :
 - [Eternity Audio Tool](https://animegamemods.freeforums.net/thread/618/eternity-audio-tool-link-tutorial) :
 - [HedgeLib](https://github.com/Radfordhound/HedgeLib) :
+- [ModelFixerPost2020](https://cdn.discordapp.com/attachments/987489054377508924/1041433416316493894/ModelFixerPost2020.exe) :
 
 # Guides
 
