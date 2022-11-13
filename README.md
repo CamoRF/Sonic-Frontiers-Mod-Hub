@@ -58,7 +58,7 @@ Tools needed
 
 - SonicFrontiers\image\x64\raw\
   - \bmpfont\ : empty
-  - \boss\ : boss textures, materials, models and levels and animations
+  - \boss\ : boss textures, materials, models, levels and animations
   - \character\ : character textures models, materials, animations
   - \decotext\ : unknown
   - \dlc\ : additional content
