@@ -5,7 +5,7 @@
 # Tools
 - [HedgeArcPack](https://github.com/CamoRF/Sonic-Frontiers-Mod-Hub/raw/main/tools/HedgeArcPack_WIP_Frontiers.7z) : unpack/pack ".pac" file format
 - [SkythTools](https://github.com/blueskythlikesclouds/SkythTools) :
-- [HedgeNeedle](https://github.com/CamoRF/Sonic-Frontiers-Mod-Hub/blob/main/tools/HedgeNeedle.7z) :
+- [HedgeNeedle](https://github.com/CamoRF/Sonic-Frontiers-Mod-Hub/raw/main/tools/HedgeNeedle.7z) :
 - [Hedgehog Engine 2 Mesh Blender Importer](https://github.com/Turk645/Hedgehog-Engine-2-Mesh-Blender-Importer) :
 - [Eternity Audio Tool](https://animegamemods.freeforums.net/thread/618/eternity-audio-tool-link-tutorial) :
 - [HedgeLib](https://github.com/Radfordhound/HedgeLib) :
