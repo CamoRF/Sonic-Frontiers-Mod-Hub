@@ -56,7 +56,7 @@ Tools needed
 
 # File Structure
 
--SonicFrontiers\image\x64\raw\
+SonicFrontiers\image\x64\raw\
   -\bmpfont\ : empty
   -\boss\ : boss textures, materials, models and levels and animations
   -\character\: character textures models, materials, animations
