@@ -45,10 +45,10 @@
 
 Search for these strings in the .exe:
 
-distanceScale
-distanceDecayEnabled
-u_grass_lod_distance
-u_grass_dither_distance
-lodDistances
-grassDitherStart
-graassDitherEnd
+- distanceScale
+- distanceDecayEnabled
+- u_grass_lod_distance
+- u_grass_dither_distance
+- lodDistances
+- grassDitherStart
+- graassDitherEnd
