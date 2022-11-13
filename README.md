@@ -10,17 +10,7 @@
 
 # Guides (placeholder)
 
-Abd = Albedo/Base Color Map
-Nrm = Normal Map
-Fal = Fresnel Color Map
-CDR = Subsurface Scattering Color basically
-Ems = Emission 
-PRM_R = Reflectivity (Specular F0)
-PRM_G = Smoothness 
-PRM_B = Metalness 
-PRM_A = Ambient Occlusion
-
-- Model Ripping (credits to stix#1997)
+# Model Ripping (credits to stix#1997)
 
 1. First off, you're gonna want to extract the .pac files using [HedgeArcPack](https://cdn.discordapp.com/attachments/987489054377508924/1039653178494431272/HedgeArcPack_WIP_Frontiers.7z)
 
@@ -31,6 +21,19 @@ PRM_A = Ambient Occlusion
 4. Import the model using [Hedgehog Engine 2 Mesh Blender Importer] (https://github.com/Turk645/Hedgehog-Engine-2-Mesh-Blender-Importer). Extract the zip and install the py files instead of installing the zip.
 
 5. Make sure after using Hedgeneedle, you copy the skl.pxd into the folder of the extracted models and rename the model to the same name as the skeleton except for extension, leave the skl.pxd files name the same
+
+# Placeholder
+
+- Abd = Albedo/Base Color Map
+- Nrm = Normal Map
+- Fal = Fresnel Color Map
+- CDR = Subsurface Scattering Color basically
+- Ems = Emission 
+- PRM_R = Reflectivity (Specular F0)
+- PRM_G = Smoothness 
+- PRM_B = Metalness 
+- PRM_A = Ambient Occlusion
+
 
 # Mods (placeholder)
 
