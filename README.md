@@ -1,6 +1,6 @@
 ![Logo](https://github.com/CamoRF/Sonic-Frontiers-Mod-Hub/blob/main/Logo_temp.png?raw=true "Logo")
 
-- This repo will be used for hosting mods, providing convenient links to modding tools and guides on modding Sonic Frontiers. 
+- This repo is an attempt to reduce fragmentation by serving as a central hub for providing convenient links to modding tools hosting, guides on making mods and also linking high quality mods to help users easily find what they need. It is not intended to replace any existing wiki, community or mod hosting site rather bring the multiple resources together. Contributions are greatly appreciated and a style guideline will be added eventually, please follow the existing formatting as a template for the timebeing!
 - Join the [Hedgehog Engine Modding Discord](https://dc.railgun.works/hems).
 - Also see [HedgeDocs](https://github.com/HedgeDocs/HedgeDocs.github.io)
 
