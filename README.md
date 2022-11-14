@@ -2,7 +2,7 @@
 
 - This repo is an attempt to reduce fragmentation by serving as a central hub for Sonic Frontiers modding by providing convenient links to modding tools, guides on making mods and also linking high quality mods to help mod authors and players easily find what they need. It is not intended to replace any existing wiki, community or mod hosting site; rather bring the multiple resources together. Contributions are greatly appreciated and a style guideline will be added eventually to make it easier to contribute, please follow the existing formatting as a template for the now!
 - Join the [Hedgehog Engine Modding Discord](https://dc.railgun.works/hems).
-- Also see [HedgeDocs](https://github.com/HedgeDocs/HedgeDocs.github.io)
+- Also see [HedgeDocs](https://github.com/HedgeDocs/HedgeDocs.github.io).
 
 # Tools
 - [HedgeArcPack](https://github.com/CamoRF/Sonic-Frontiers-Mod-Hub/raw/main/tools/HedgeArcPack_WIP_Frontiers.7z) : unpack/pack ".pac" file format
