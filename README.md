@@ -94,7 +94,6 @@
 - **In-Game Text Editing**
   - Tools Needed
     - [Puyo Text Editor](https://github.com/nickworonekin/puyo-text-editor)
-  
   - Unpack the .pac file including the text you want using HedgeArcPack
   - Drag and drop the cnvrs-text file you want to edit onto PuyoTextEditor.exe. This will create an XML file with the same filename in the folder where you have the cnvrs-text file.
   - Edit the text that you want.
