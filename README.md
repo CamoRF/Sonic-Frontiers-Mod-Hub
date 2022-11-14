@@ -46,7 +46,14 @@
 
 - Saves
   - YOUR_DRIVE\Users\%UserName%\AppData\Roaming\SEGA\SonicFrontiers\steam
-  
+
+- Configs
+  - Windows
+      - %APPDATA%\Sega\SonicFrontiers\steam\x64\screen_setting.xml
+      - %APPDATA%\Sega\SonicFrontiers\steam\<user-id>\option\optiondata
+  - Linux  
+      - <Steam-folder>/steamapps/compatdata/1237320/pfx/  
+
 # File Formats
 
 - Placeholder
