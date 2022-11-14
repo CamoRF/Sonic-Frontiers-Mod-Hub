@@ -61,7 +61,7 @@
 # Guides
 
 -  **Model Import Tutorial Video (credits to junior#0001)**
-  [Sonic Frontiers Modding - Model Import Tutorial](https://youtu.be/B_-YJ2I1_M4)
+  - [Sonic Frontiers Modding - Model Import Tutorial](https://youtu.be/B_-YJ2I1_M4)
 
 -  **Model Ripping (credits to stix#1997)**
     - First off, you're gonna want to extract the .pac files using [HedgeArcPack](https://cdn.discordapp.com/attachments/987489054377508924/1039653178494431272/HedgeArcPack_WIP_Frontiers.7z)
