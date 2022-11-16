@@ -56,13 +56,18 @@
 
 # File Formats
 
-- Placeholder
+- USM: holds video.
+- PAC: Hedgehog Engine 2 compression format.
 
-# Guides
+# Video Guides
 
 -  **Model Import Tutorial Video (credits to junior#0001)**
     - [Sonic Frontiers Modding - Model Import Tutorial](https://youtu.be/B_-YJ2I1_M4)
-
+-  **HedgeModManager Update Server guide (credits to K1 A1#**
+    - [How To Make An Update Server For HedgeModManager](https://www.youtube.com/watch?v=_Zl0KsWpEZw)
+  
+# Text Guides
+  
 -  **Model Ripping (credits to stix#1997)**
     - First off, you're gonna want to extract the .pac files using [HedgeArcPack](https://cdn.discordapp.com/attachments/987489054377508924/1039653178494431272/HedgeArcPack_WIP_Frontiers.7z)
     - Depending on what pac file you extract there may be no textures, inorder to fix this, use [SkythTools](https://github.com/blueskythlikesclouds/SkythTools) NeedleTextureStreamingPackage
@@ -91,6 +96,27 @@
     - To playback these tracks you will need Foobar2000 with VGMStream, install Foobar2000 and click on VGMStream and apply it. Then go to the main menu of Foobar2000, go to file and click open, press CTRL+A on the folder with all of the files you want to listen to and play them all back. If you wish to extract the audio, right click it, go to convert and quick convert, I recommend converting to either .wav or .ogg.
     - To edit the tracks, make sure you copy both of the extracted folder .acb and the original .acb to a different folder. Listen to the audio track you wish to use and use Foobar2000 to listen to the audio tracks in that folder, once you have the name of a track you wish to replace. Make a sound file (.wav/.ogg) you wish to replace that track with, open Eternity's Audio Tool 1.0b, click File and Convert to .hca, select the audio file you want to change into a .hca and rename it to the audio file you want to change inside of the extracted .acb folder. Then replace the track and drag and drop the extracted folder .acb onto AcbEditor.exe. You've now changed audio in Sonic Frontiers, you can do the rest. 
 
+- **Video Modding (written by Saviour 1#4257)**
+  - Tools Needed
+    - Scaleform Video Encoder
+    - [ffmpeg](https://ffmpeg.org/download.html) + [ff-prompt.bat](https://github.com/nightwolf93/Electron-Starter/blob/master/lib/ffmpeg/ff-prompt.bat) 
+    - Your video (Needs to be 30FPS, and needs to be under or the same length as the original video.)
+    - get the filename of the .USM you are going to replace
+  - Place ff-prompt.bat in the root folder of your ffmpeg folder.
+  - Add a folder with the name "video" to the "bin" folder. Place your video (30FPS) inside.
+  - Start ff-prompt.bat. 
+  - do `ffmpeg -i ./video/video.mp4 ./video/video.wav ./video/video%03d.tga`. ffmpeg will now generate the frames as tga files, and the sound as a wav file.
+  - Open Scaleform Video Encoder.
+  - In the "Input Name", select `video001.tga`.
+  - Scroll down to other audio and set it to "Mono/Stereo", and then find and choose `video.wav`.
+  - On the right, set your Bitrate to 40000 kbps, and Framerate to 29.97 fps.
+  - ***Enable `Encode audio as HCA codec`.***
+  - Press "Encode" at the bottom right of the window. Scaleform will now encode your video into HCA, and it will be located in the same folder as the tga and wav. It will be named `video001.usm`.
+  - Rename video001.usm to whatever the filename of the USM from the game is. For example, `zev_sonic_ring_max.usm`.
+  - Make a copy of zev_sonic_ring_max.usm and rename the copy to `zev_sonic_ring_max_4k.usm`. (You can make a 4K encode, but it's up to you.)
+  - Create a mod in HedgeModManager with the path: "/raw/movie/"
+  - Add both of your USM files to the /movie/ folder.
+  
 - **In-Game Text Editing**
   - Tools Needed
     - [Puyo Text Editor](https://github.com/nickworonekin/puyo-text-editor)
