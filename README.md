@@ -14,6 +14,8 @@
 - [ModelFixerPost2020](https://github.com/CamoRF/Sonic-Frontiers-Mod-Hub/raw/main/tools/ModelFixerPost2020.zip) : Can possibly fix broken models
 - [Puyo Text Editor](https://github.com/nickworonekin/puyo-text-editor) : Used to convert some of the cnvrs-text files
 - [HedgeHogManager](https://gamebanana.com/dl/883484)
+- [Ripping Tools GUI](https://github.com/Nova-69/Ripping-Tools-GUI)
+- [CemtColorEditor](https://github.com/keanine/SF-CemtColorEditor)
 
 # Mods
 
