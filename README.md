@@ -15,7 +15,7 @@
 - [Puyo Text Editor](https://github.com/nickworonekin/puyo-text-editor) : Used to convert some of the cnvrs-text files
 - [HedgeModManager](https://gamebanana.com/dl/883484) : A mod manager for Hedgehog Engine games on PC
 - [Ripping Tools GUI](https://github.com/Nova-69/Ripping-Tools-GUI) : A GUI for various Hedgehog Engine ripping tools to simplify the ripping process
-- [CemtColorEditor](https://github.com/keanine/SF-CemtColorEditor) : 
+- [CemtColorEditor](https://github.com/keanine/SF-CemtColorEditor)
 
 # Mods
 
