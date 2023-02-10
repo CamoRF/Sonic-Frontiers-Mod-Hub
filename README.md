@@ -7,14 +7,14 @@
 # Tools
 - [HedgeArcPack](https://github.com/CamoRF/Sonic-Frontiers-Mod-Hub/raw/main/tools/HedgeArcPack_WIP_Frontiers.7z) : unpack/pack ".pac" file format
 - [SkythTools](https://github.com/blueskythlikesclouds/SkythTools) : A collection of tools for modern Sonic the Hedgehog games 
-- [HedgeLib](https://github.com/Radfordhound/HedgeLib) : A C# library and collection of tools that aims to make modding games in the Sonic the Hedgehog franchise easier. 
-- [HedgeNeedle](https://github.com/CamoRF/Sonic-Frontiers-Mod-Hub/raw/main/tools/HedgeNeedle.7z) : Placeholder
+- [HedgeLib](https://github.com/Radfordhound/HedgeLib) : A C# library and collection of tools that aims to make modding games in the Sonic the Hedgehog franchise easier
+- [HedgeNeedle](https://github.com/CamoRF/Sonic-Frontiers-Mod-Hub/raw/main/tools/HedgeNeedle.7z) : A C++17 Command-Line tool that allows extraction and generation of Hedgehog Engine 2 Needle "archives"
 - [Hedgehog Engine 2 Mesh Blender Importer](https://github.com/Turk645/Hedgehog-Engine-2-Mesh-Blender-Importer) : Plugin for importing the games models in Blender
 - [Eternity Audio Tool](https://animegamemods.freeforums.net/thread/618/eternity-audio-tool-link-tutorial) : Used for ripping audio from the game
 - [ModelFixerPost2020](https://github.com/CamoRF/Sonic-Frontiers-Mod-Hub/raw/main/tools/ModelFixerPost2020.zip) : Can possibly fix broken models
 - [Puyo Text Editor](https://github.com/nickworonekin/puyo-text-editor) : Used to convert some of the cnvrs-text files
-- [HedgeHogManager](https://gamebanana.com/dl/883484)
-- [Ripping Tools GUI](https://github.com/Nova-69/Ripping-Tools-GUI)
+- [HedgeModManager](https://gamebanana.com/dl/883484) : A mod manager for Hedgehog Engine games on PC
+- [Ripping Tools GUI](https://github.com/Nova-69/Ripping-Tools-GUI) : A GUI for various Hedgehog Engine ripping tools to simplify the ripping process
 - [CemtColorEditor](https://github.com/keanine/SF-CemtColorEditor)
 
 # Mods
