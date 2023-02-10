@@ -36,7 +36,7 @@
   - \hedgehog\ : engine related level, debug, sound and fonts; mostly empty
   - \miniboss\ : mini boss textures, materials, models, levels and animations
   - \misc\ : miscellaneous textures and levels; needs to be looked into more
-  - \movie\ : non real-time custscenes
+  - \movie\ : pre rendered custscenes
   - \navmesh\ : NPC navigation path meshes
   - \scalablefont\ : fonts
   - \script\ : various scripts and functions, .lua format is common
@@ -65,7 +65,7 @@
 
 -  **Model Import Tutorial Video (credits to junior#0001)**
     - [Sonic Frontiers Modding - Model Import Tutorial](https://youtu.be/B_-YJ2I1_M4)
--  **HedgeModManager Update Server guide (credits to K1 A1#**
+-  **HedgeModManager Update Server guide (credits to K1 A1)**
     - [How To Make An Update Server For HedgeModManager](https://www.youtube.com/watch?v=_Zl0KsWpEZw)
   
 # Text Guides
