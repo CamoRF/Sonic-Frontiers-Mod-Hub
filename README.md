@@ -1,11 +1,12 @@
 ![Logo](https://github.com/CamoRF/Sonic-Frontiers-Mod-Hub/blob/main/Logo_temp.png?raw=true "Logo")
 
-- This repo is an attempt to reduce fragmentation by serving as a central hub for Sonic Frontiers modding by providing convenient links to modding tools, guides on making mods and also linking high quality mods to help mod authors and players easily find what they need. It is not intended to replace any existing wiki, community or mod hosting site; rather bring the multiple resources together. Contributions are greatly appreciated and a style guideline will be added eventually to make it easier to contribute, please follow the existing formatting as a template for now!
+- This repo is an attempt to reduce fragmentation by serving as a central hub for Sonic Frontiers modding. It provides convenient links to modding **tools**, **guides**, and **high quality mods** to help mod authors and players easily find what they need. It is *not* intended to replace any existing wiki, community or mod hosting site - but rather bring multiple resources together. 
+- Contributions are greatly appreciated, and a style guideline will be added eventually! Please follow the existing formatting as a template for now.
 - Join the [Hedgehog Engine Modding Discord](https://dc.railgun.works/hems).
 - Also see [HedgeDocs](https://github.com/HedgeDocs/HedgeDocs.github.io).
 
 # Tools
-- [HedgeArcPack](https://github.com/CamoRF/Sonic-Frontiers-Mod-Hub/raw/main/tools/HedgeArcPack_WIP_Frontiers.7z) : unpack/pack ".pac" file format
+- [HedgeArcPack](https://github.com/CamoRF/Sonic-Frontiers-Mod-Hub/raw/main/tools/HedgeArcPack_WIP_Frontiers.7z) : Unpack/pack ".pac" file format
 - [SkythTools](https://github.com/blueskythlikesclouds/SkythTools) : A collection of tools for modern Sonic the Hedgehog games 
 - [HedgeLib](https://github.com/Radfordhound/HedgeLib) : A C# library and collection of tools that aims to make modding games in the Sonic the Hedgehog franchise easier
 - [HedgeNeedle](https://github.com/CamoRF/Sonic-Frontiers-Mod-Hub/raw/main/tools/HedgeNeedle.7z) : A C++17 Command-Line tool that allows extraction and generation of Hedgehog Engine 2 Needle "archives"
@@ -23,49 +24,49 @@
 
 # File Structure
 
-- SonicFrontiers\image\x64\raw\
-  - \bmpfont\ : empty
-  - \boss\ : boss textures, materials, models, levels and animations
-  - \character\ : character textures models, materials and animations
-  - \decotext\ : unknown
-  - \dlc\ : additional content
-  - \enemy\ : boss textures, materials, models and levels and animations
-  - \event\ : real-time cutscenes/events? 
-  - \gedit\ : setdata/object layout
-  - \general\ : unknown
-  - \hedgehog\ : engine related level, debug, sound and fonts; mostly empty
-  - \miniboss\ : mini boss textures, materials, models, levels and animations
-  - \misc\ : miscellaneous textures and levels; needs to be looked into more
-  - \movie\ : pre rendered custscenes
-  - \navmesh\ : NPC navigation path meshes
-  - \scalablefont\ : fonts
-  - \script\ : various scripts and functions, .lua format is common
-  - \sound\ : sounds and music
-  - \stage\ : world/level textures, materials, models and LODs; most of the games textures can be found here
-  - \text\ : subtitles, skills and other text popups
-  - \texture_streaming\ : unknown, most likely engine related files for streaming in textures
-  - \ui\ : user interface textures
+- **SonicFrontiers\image\x64\raw**
+  - `\bmpfont\` : empty
+  - `\boss\` : boss textures, materials, models, levels and animations
+  - `\character\` : character textures models, materials and animations
+  - `\decotext\` : unknown
+  - `\dlc\` : additional content
+  - `\enemy\` : boss textures, materials, models and levels and animations
+  - `\event\` : real-time cutscenes/events? 
+  - `\gedit\` : setdata/object layout
+  - `\general\` : unknown
+  - `\hedgehog\` : engine related level, debug, sound and fonts; mostly empty
+  - `\miniboss\` : mini boss textures, materials, models, levels and animations
+  - `\misc\` : miscellaneous textures and levels; needs to be looked into more
+  - `\movie\` : pre rendered custscenes
+  - `\navmesh\` : NPC navigation path meshes
+  - `\scalablefont\` : fonts
+  - `\script\` : various scripts and functions, .lua format is common
+  - `\sound\` : sounds and music
+  - `\stage\` : world/level textures, materials, models and LODs; most of the games textures can be found here
+  - `\text\` : subtitles, skills and other text popups
+  - `\texture_streaming\` : unknown, most likely engine related files for streaming in textures
+  - `\ui\` : user interface textures
 
-- Saves
-  - YOUR_DRIVE\Users\%UserName%\AppData\Roaming\SEGA\SonicFrontiers\steam
+- **Saves**
+  - `YOUR_DRIVE\Users\%UserName%\AppData\Roaming\SEGA\SonicFrontiers\steam`
 
-- Configs
+- **Configs**
   - Windows
-      - %APPDATA%\Sega\SonicFrontiers\steam\x64\screen_setting.xml
-      - %APPDATA%\Sega\SonicFrontiers\steam\<user-id>\option\optiondata
+      - `%APPDATA%\Sega\SonicFrontiers\steam\x64\screen_setting.xml`
+      - `%APPDATA%\Sega\SonicFrontiers\steam\<user-id>\option\optiondata`
   - Linux  
-      - <Steam-folder>/steamapps/compatdata/1237320/pfx/  
+      - `<Steam-folder>/steamapps/compatdata/1237320/pfx/  `
 
 # File Formats
 
-- USM: holds video.
-- PAC: Hedgehog Engine 2 compression format.
+- **USM**: holds video.
+- **PAC**: Hedgehog Engine 2 compression format.
 
 # Video Guides
 
--  **Model Import Tutorial Video (credits to junior#0001)**
+-  **Model Import Tutorial Video** (credits to junior#0001)
     - [Sonic Frontiers Modding - Model Import Tutorial](https://youtu.be/B_-YJ2I1_M4)
--  **HedgeModManager Update Server guide (credits to K1 A1)**
+-  **HedgeModManager Update Server guide** (credits to K1 A1)
     - [How To Make An Update Server For HedgeModManager](https://www.youtube.com/watch?v=_Zl0KsWpEZw)
   
 # Text Guides
@@ -125,14 +126,14 @@
   - Unpack the .pac file including the text you want using HedgeArcPack
   - Drag and drop the cnvrs-text file you want to edit onto PuyoTextEditor.exe. This will create an XML file with the same filename in the folder where you have the cnvrs-text file.
   - Edit the text that you want.
-  - Open a Command Prompt, and navigate to the folder where you have PuyoTextEditor.exe. (The command for this is 'cd <Directory>')
-  - Run the following command: "PuyoTextEditor.exe -f cnvrs-text <XML_FILE>" where <XML-FILE> is the file you edited in step 3.
+  - Open a Command Prompt, and navigate to the folder where you have PuyoTextEditor.exe. (The command for this is `cd \<Directory>`)
+  - Run the following command: `PuyoTextEditor.exe -f cnvrs-text <XML_FILE>` where "\<XML-FILE>" is the file you edited in step 3.
   - This will create a new cnvrs-text file in the same directory as the XML file.
   - Repack the files by dragging the directory including all the files for that pac onto HedgeArcPack.exe
 
-# Project Resaerch
+# Project Research
 
-- INCREASED DRAW DISTANCE
+- **INCREASED DRAW DISTANCE**
   - Possible strings in hex editor related to LOD in SonicFrontiers.exe :
     - distanceScale
     - distanceDecayEnabled
@@ -143,9 +144,9 @@
     - graassDitherEnd
 
  # FAQ
-- Q: How do I import the .model into blender? 
+- **Q: How do I import the .model into blender?**
   - A: Google "How to install a blender add-on and follow the tutorial", here's the [plugin](https://cdn.discordapp.com/attachments/987489054377508924/1041430235809316934/Hedgehog-Engine-2-Mesh-Blender-Importer-main.zip) if you missed it. 
-- Q: ALT+R isn't working in blender, why?
+- **Q: ALT+R isn't working in blender, why?**
   - A: Turn off hotkeys/keybindings for AMD or NVIDIA overlays.
-- Q: My model is invisible, why?
+- **Q: My model is invisible, why?**
   - A: Make sure your materials all have proper names. Don't leave them as the default. 
