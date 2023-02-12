@@ -55,7 +55,7 @@
       - `%APPDATA%\Sega\SonicFrontiers\steam\x64\screen_setting.xml`
       - `%APPDATA%\Sega\SonicFrontiers\steam\<user-id>\option\optiondata`
   - Linux  
-      - `<Steam-folder>/steamapps/compatdata/1237320/pfx/  `
+      - `<Steam-folder>/steamapps/compatdata/1237320/pfx/`
 
 # File Formats
 
