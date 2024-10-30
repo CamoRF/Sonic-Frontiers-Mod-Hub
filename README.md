@@ -1,7 +1,7 @@
 ![Logo](https://github.com/CamoRF/Sonic-Frontiers-Mod-Hub/blob/main/Logo_temp.png?raw=true "Logo")
 
 - This repo is an attempt to reduce fragmentation by serving as a central hub for Sonic Frontiers modding. It provides convenient links to modding **tools**, **guides**, and **high quality mods** to help mod authors and players easily find what they need. It is *not* intended to replace any existing wiki, community or mod hosting site - but rather bring multiple resources together. 
-- Contributions are greatly appreciated, and a style guideline will be added eventually! Please follow the existing formatting as a template for now.
+- Contributions are greatly appreciated, please follow the existing formatting as a template!
 - Join the [Hedgehog Engine Modding Discord](https://dc.railgun.works/hems).
 - Also see [HedgeDocs](https://github.com/HedgeDocs/HedgeDocs.github.io).
 
@@ -130,18 +130,6 @@
   - Run the following command: `PuyoTextEditor.exe -f cnvrs-text <XML_FILE>` where "\<XML-FILE>" is the file you edited in step 3.
   - This will create a new cnvrs-text file in the same directory as the XML file.
   - Repack the files by dragging the directory including all the files for that pac onto HedgeArcPack.exe
-
-# Project Research
-
-- **INCREASED DRAW DISTANCE**
-  - Possible strings in hex editor related to LOD in SonicFrontiers.exe :
-    - distanceScale
-    - distanceDecayEnabled
-    - u_grass_lod_distance
-    - u_grass_dither_distance
-    - lodDistances
-    - grassDitherStart
-    - graassDitherEnd
 
  # FAQ
 - **Q: How do I import the .model into blender?**
